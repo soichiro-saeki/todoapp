@@ -42,8 +42,11 @@ form {
 }
 
 #todo-list {
-  list-style-type: none;
+  list-style: none;
   padding: 0;
+}
+.todo-app ul{
+  list-style:none;
 }
 
 .todo-item {
