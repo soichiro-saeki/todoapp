@@ -1,4 +1,4 @@
-const form =document.querySelector('#post-form');
+const form = document.querySelector('#post-form');
 const todoList = document.querySelector('#todo-list');
 
 //送信ボタンを押した時のイベント
